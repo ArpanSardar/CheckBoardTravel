@@ -58,3 +58,8 @@
 .stepDisplayArea {
   width: 500px;
 }
+p {
+  color: #bcbcbc;
+  text-align: left;
+  margin-left: 20px;
+}
